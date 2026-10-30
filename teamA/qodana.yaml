@@ -2,3 +2,8 @@ version: 1.0
 
 imports:
   - ../base/qodana.yaml
+
+failureConditions:
+    severityThresholds:
+        critical: 1
+        any: 10
