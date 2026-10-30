@@ -7,3 +7,4 @@ failureConditions:
     severityThresholds:
         critical: 1
         any: 10
+        
